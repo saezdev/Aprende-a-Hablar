@@ -57,6 +57,7 @@ define( 'SECURE_AUTH_SALT', '&/D0rGgz=>ukfcIjE>N84yKch,wT!Y&RWvi%}4z[1Ij|Ku-M0U!
 define( 'LOGGED_IN_SALT',   'fsTC-rNr#5/VqHe.Dw#@a{kpXY45uQ}JKK2w*v1:ICQ.$1u63`Bvf{|pb+<?eOa&' );
 define( 'NONCE_SALT',       'z[|Ar[Q-UocND/#87I~3Piogy3GFH,,deyN<BiX@%![[7#hh8mjwz{c$(xLJ5u5)' );
 
+
 /**#@-*/
 
 /**
@@ -82,8 +83,7 @@ $table_prefix = 'wp_';
 define( 'WP_DEBUG', false );
 
 /* Add any custom values between this line and the "stop editing" line. */
-
-
+define('ALLOW_UNFILTERED_UPLOADS', true);
 
 /* That's all, stop editing! Happy publishing. */
 
