@@ -1,0 +1,268 @@
+# Copyright (C) 2023 kortezthemes
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kortez FSE 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/kortez-fse\n"
+"POT-Creation-Date: 2023-09-27 10:47:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: patterns/about.php:20
+msgid "We Are More Effective To Making Different"
+msgstr ""
+
+#: patterns/about.php:24
+msgid "Blandit rem cupidatat aute minim urna, hymenaeos repellat dictumst magnam rem ac nulla integer totam. Molestie scelerisque purus sem blandit."
+msgstr ""
+
+#: patterns/about.php:29
+msgid "Placerat totam lectus voluptatibus."
+msgstr ""
+
+#: patterns/about.php:33
+msgid "Fringilla esse dui porta ipsum."
+msgstr ""
+
+#: patterns/about.php:37
+msgid "Dapibus nostrum laudantium erat."
+msgstr ""
+
+#: patterns/about.php:41
+msgid "Dolor similique viverra senectus."
+msgstr ""
+
+#: patterns/about.php:56
+msgid "Bolden Harris"
+msgstr ""
+
+#: patterns/about.php:60
+msgid "Founder/CEO"
+msgstr ""
+
+#: patterns/about.php:89
+msgid "We are the best company since 1995."
+msgstr ""
+
+#: patterns/callback.php:21
+msgid "Hire Us &amp; Get Along To Uplift Your Business"
+msgstr ""
+
+#: patterns/callback.php:25
+msgid "Aliquet, fames quo repudiandae dignissim congue dignissim porro exercitation natoque commodo aspernatur congue conubia, feugiat."
+msgstr ""
+
+#: patterns/callback.php:30
+msgid "Get Started"
+msgstr ""
+
+#: patterns/callback.php:34
+msgid "Learn More"
+msgstr ""
+
+#: patterns/counter.php:13
+msgid "4,000+"
+msgstr ""
+
+#: patterns/counter.php:17
+msgid "Project Complete"
+msgstr ""
+
+#: patterns/counter.php:23
+msgid "25+"
+msgstr ""
+
+#: patterns/counter.php:27
+msgid "Office Branches"
+msgstr ""
+
+#: patterns/counter.php:33
+msgid "1800+"
+msgstr ""
+
+#: patterns/counter.php:37
+msgid "Happy Clients"
+msgstr ""
+
+#: patterns/counter.php:43
+msgid "55+"
+msgstr ""
+
+#: patterns/counter.php:47
+msgid "Award Achievement"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid "Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat lorem lacinia sagittis non pretium aliquet, fames quo repudiandae."
+msgstr ""
+
+#: patterns/footer.php:25
+msgid "Products"
+msgstr ""
+
+#: patterns/footer.php:33
+msgid "Company"
+msgstr ""
+
+#: patterns/footer.php:41
+msgid "OUR Newsletter"
+msgstr ""
+
+#: patterns/footer.php:45
+msgid "Please subscribe to our newsletter to get all the great Offers"
+msgstr ""
+
+#: patterns/footer.php:50
+msgid "Join Us Now"
+msgstr ""
+
+#: patterns/footer.php:59
+msgid "© 2023."
+msgstr ""
+
+#: patterns/footer.php:65
+msgid "All rights reserved"
+msgstr ""
+
+#: patterns/header.php:19
+msgid "Home"
+msgstr ""
+
+#: patterns/header.php:20
+msgid "About"
+msgstr ""
+
+#: patterns/header.php:21
+msgid "Services"
+msgstr ""
+
+#: patterns/header.php:22
+msgid "Blog"
+msgstr ""
+
+#: patterns/header.php:23
+msgid "Contact"
+msgstr ""
+
+#: patterns/header.php:28
+msgid "Get A Quote"
+msgstr ""
+
+#: patterns/hero-banner.php:21
+msgid "Creative &amp; Minimal Design Concept"
+msgstr ""
+
+#: patterns/hero-banner.php:25
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar orporis repellat sequi auctor."
+msgstr ""
+
+#: patterns/hero-banner.php:30
+msgid "Discover More"
+msgstr ""
+
+#: patterns/latest-posts.php:13
+msgid "Checkout Our Recent News &amp; Insights"
+msgstr ""
+
+#: patterns/latest-posts.php:19
+msgid "Mauris fugit! Semper eiusmod veritatis mauris aperiam sodales eu! Dui occaecati consequat. Adipisicing, ullamcorper dolores, molestias. Aliquet at magni rutrum."
+msgstr ""
+
+#: patterns/primary-sidebar.php:16
+msgid "Archive"
+msgstr ""
+
+#: patterns/primary-sidebar.php:24
+msgid "Categories"
+msgstr ""
+
+#: patterns/primary-sidebar.php:32
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/primary-sidebar.php:40
+msgid "Tags"
+msgstr ""
+
+#: patterns/primary-sidebar.php:48
+msgid "Social Links"
+msgstr ""
+
+#: patterns/services.php:23
+msgid "Software &amp; Research"
+msgstr ""
+
+#: patterns/services.php:27 patterns/services.php:43 patterns/services.php:59
+msgid "Blandit rem cupidatat aute minim urna, hymenaeos repellat dictumst magnam rem ac nulla integer totam."
+msgstr ""
+
+#: patterns/services.php:39
+msgid "Marketing Strategy"
+msgstr ""
+
+#: patterns/services.php:55
+msgid "Branding &amp; Identity"
+msgstr ""
+
+#: patterns/template-404.php:20
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/template-search.php:28
+msgid "."
+msgstr ""
+
+#: patterns/template-search.php:46
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgstr ""
+
+#: patterns/testimonial.php:15
+msgid "What Our Client Says"
+msgstr ""
+
+#: patterns/testimonial.php:19
+msgid "Auctor condimentum sit mus, pellentesque, aliquip."
+msgstr ""
+
+#: patterns/testimonial.php:33 patterns/testimonial.php:57
+msgid "\"Diamlorem eiusmod iste veritatis. Provident eum doloremque a felis habitasse vivamus voluptates.\""
+msgstr ""
+
+#: patterns/testimonial.php:37
+msgid "William George"
+msgstr ""
+
+#: patterns/testimonial.php:41 patterns/testimonial.php:65
+msgid "Customer, Agent"
+msgstr ""
+
+#: patterns/testimonial.php:61
+msgid "Sally Henderson"
+msgstr ""
+
+#: patterns/testimonial.php:74
+msgid "More Reviews"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Kortez FSE"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://kortezthemes.com/kortez-fse/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Kortez FSE is multipurpose block-based theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "kortezthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://kortezthemes.com"
+msgstr ""
